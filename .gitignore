@@ -1,3 +1,7 @@
-ts/build/packages/dmidecode/sbin
-ts/build/packages/dmidecode/lib64
-
+*/
+bin
+build
+lib
+lib64
+sbin
+!ts/*
